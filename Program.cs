@@ -11,3 +11,5 @@ Console.WriteLine("ABCD");
 Console.WriteLine($"Dev A push code: {JsonSerializer.Serialize(nv)}");
 
 Console.WriteLine($"Dev B push code: {JsonSerializer.Serialize(sp)}");
+
+Console.WriteLine($"Dev A ok.");
