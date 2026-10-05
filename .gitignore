@@ -1,0 +1,3 @@
+#file loại bỏ các file và thư mục không cần thiết khi commit lên git
+bin
+obj
